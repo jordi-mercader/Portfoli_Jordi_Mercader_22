@@ -1,0 +1,797 @@
+html{
+    font-family: 'Gloria Hallelujah', cursive;
+    background: #202020;
+    width: 2110px;
+    height: 1085px;
+    position: fixed;
+    top: 5px;
+    left: 5px;
+   }
+
+
+
+#contacte{
+    position: fixed;
+    left: 120px;
+    top: 250px;
+    font-size: 30px;
+    width: 150px;
+    height: 50px;
+    transition-duration: 1s;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+
+#contacte:hover{
+    transition-duration: 1s;
+    font-size: 32px;
+    width: 200px;
+    height: 100px;
+    text-decoration: none;
+    color: black;
+}
+
+#contacte2{
+    display: inline;
+    position: fixed;
+    right: 800px;
+    font-size: 30px;
+    width: 250px;
+    transition-duration: 1s;
+    text-decoration: none;
+    color: gray;
+}
+
+#nom{
+
+    border-radius: 5px;
+    display: inline;
+    position: fixed;
+    right: 1200px; 
+    font-size: 30px; 
+    width: auto;
+    height: auto;
+    text-align: center;
+    transition-duration: 1s;
+    text-decoration: none;   
+    color: gray;
+}
+
+#nom:hover {
+
+    border-radius: 5px;
+    transition-duration: 1s;
+    font-size: 40px;
+    width: auto;
+    height: auto;
+    text-decoration: none;
+    color: gray;
+}
+
+
+
+
+
+#nom2a:hover {
+
+    border-radius: 5px;
+    transition-duration: 1s;
+    font-size: 40px;
+    width: auto;
+    height: auto;
+    text-decoration: none;
+    color: gray;
+}
+
+#noms{
+
+    border-radius: 5px;
+    display: inline;
+    position: fixed;
+    top: 1000px;
+    right: 100px; 
+    font-size: 30px; 
+    width: auto;
+    height: auto;
+    text-align: center;
+    transition-duration: 1s;
+    text-decoration: none;   
+    color: gray;
+}
+
+#noms:hover {
+
+    border-radius: 5px;
+    transition-duration: 1s;
+    font-size: 40px;
+    width: auto;
+    height: auto;
+    text-decoration: none;
+    color: gray;
+}
+
+#nomp{
+    display: inline;
+    position: fixed;
+    left: 10px;
+    top:700px;
+    font-size: 30px; 
+    width: auto;
+    height: auto;
+    text-align: center;
+    transition-duration: 1s;
+    text-decoration: none;   
+    color: gray;
+}
+
+#nomp:hover {
+
+    border-radius: 5px;
+    transition-duration: 1s;
+    font-size: 32px;
+    width: auto;
+    height: auto;
+    text-decoration: none;
+    color: gray;
+}
+
+
+#nomc{
+
+    border-radius: 5px;
+    display: inline;
+    position: fixed;
+    right: 500px;
+    top: 1000px;
+    font-size: 30px; 
+    width: auto;
+    height: auto;
+    text-align: center;
+    transition-duration: 1s;
+    text-decoration: none;   
+    color: black;
+}
+
+#nomc:hover {
+
+    border-radius: 5px;
+    transition-duration: 1s;
+    font-size: 40px;
+    width: auto;
+    height: auto;
+    text-decoration: none;
+    color: black;
+}
+
+#nom2{
+
+    border-radius: 5px;
+    display: inline;
+    position: fixed;
+    left: 100px;
+    top: 400px;
+    font-size: 30px; 
+    width: auto;
+    height: auto;
+    text-align: center;
+    transition-duration: 1s;
+    text-decoration: none;   
+    color: black;
+}
+
+#nom2:hover {
+
+    border-radius: 5px;
+    transition-duration: 1s;
+    font-size: 32px;
+    width: auto;
+    height: auto;
+    text-decoration: none;
+    color: black;
+}
+
+
+#contacte3d:hover {
+
+    border-radius: 5px;
+    transition-duration: 1s;
+    font-size: 40px;
+    width: 200px;
+    color:black;
+}
+
+#contacte2:hover {
+
+    border-radius: 5px;
+    transition-duration: 1s;
+    font-size: 40px;
+    width: 100px;
+    height: auto;
+}
+
+#tresd{
+    
+    background-image: url(esgrima.png);
+    width: 300px;
+    height: 300px;
+    position: fixed;
+    top: 50px;
+    left: 620px;
+}
+
+#tresd:hover{
+    
+    background-color: darkgray;
+    
+}
+
+#tresdf{
+    
+    opacity: 0;
+    width: 300px;
+    height: 300px;
+    position: fixed;
+    top: 50px;
+    left: 620px;
+    font-size: 0px;
+    text-decoration: none;
+}
+
+#dyno{
+    
+    background-image: url(Captura_dyno.PNG);
+    width: 300px;
+    height: 300px;
+    position: fixed;
+    top: 200px;
+    left: 580px;
+}
+
+#dynod{
+    
+    opacity: 0;
+    width: 300px;
+    height: 300px;
+    position: fixed;
+    top: 200px;
+    left: 580px;
+    font-size: 40px;
+    text-decoration: none;
+}
+
+#dynod:hover{
+   
+    background-color: white;
+    opacity: 0.5;
+    font-size: 40px;
+    color: black;
+    text-align: center;
+
+}
+
+#color{
+    
+    opacity: 0;
+    width: 300px;
+    height: 300px;
+    position: fixed;
+    top: 100px;
+    right: 900px;
+    font-size: 0px;
+    text-decoration: none;
+}
+
+#tresdf:hover{
+    
+    background-color: black;
+    opacity: 0.3;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+#doosd:hover{
+    
+    background-color: darkgray;
+    
+}
+
+#dosd{
+    
+    background-image: url(animacio_2d.png);
+    width: 300px;
+    height: 300px;
+    position: fixed;
+    top: 50px;
+    right: 500px;
+}
+
+#dosdf{
+    
+    opacity: 0;
+    width: 300px;
+    height: 300px;
+    position: fixed;
+    top: 50px;
+    right: 500px;
+    font-size: 0px;
+    text-decoration: none;
+}
+
+#dosdf:hover{
+   
+    background-color: black;
+    opacity: 0.3;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+#lucy{
+    
+    background-image: url(Captura_lucy.PNG);
+    width: 300px;
+    height: 300px;
+    position: fixed;
+    top: 200px;
+    left: 1220px;
+}
+
+#lucyf{
+    
+    opacity: 0;
+    width: 300px;
+    height: 300px;
+    position: fixed;
+    top: 200px;
+    left: 1220px;
+    font-size: 0px;
+    text-decoration: none;
+}
+
+#lucyf:hover{
+   
+    background-color: white;
+    opacity: 0.5;
+    font-size: 40px;
+    color: black;
+    text-align: center;
+}
+
+#iluminacio:hover{
+    
+    background-color: darkgray;
+    
+}
+
+#iluminacio{
+    
+    background-image: url(iluminacio.png);
+    width: 300px;
+    height: 300px;
+    position: fixed;
+    top: 500px;
+    left: 620px;
+}
+
+#iluminaciof{
+   
+    opacity: 0;
+    width: 300px;
+    height: 300px;
+    position: fixed;
+    top: 500px;
+    left: 620px;
+    font-size: 0px;
+    text-decoration: none;
+}
+
+#iluminaciof:hover{
+    
+    background-color: black;
+    opacity: 0.3;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+#entorns:hover{
+    
+    background-color: darkgray;
+    
+    
+}
+
+#entorns{
+   
+    background-image: url(entorns.png);
+    width: 300px;
+    height: 300px;
+    position: fixed;
+    top: 500px;
+    right: 500px;
+
+}
+
+#entornsf{
+    
+    opacity: 0;
+    width: 300px;
+    height: 300px;
+    position: fixed;
+    top: 500px;
+    right: 500px;
+    font-size: 0px;
+    text-decoration: none;
+}
+
+#entornsf:hover{
+    
+    background-color: black;
+    opacity: 0.3;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+#reeltresd{
+    
+    margin: auto;
+    position: fixed;
+    top: 200px;
+    left: 420px;
+}
+
+#reeltresds{
+    
+    margin: auto;
+    position: fixed;
+    top: 150px;
+    left: 150px;
+}
+
+#reeldosd{
+    
+    margin-left: 300px;
+    margin-top: 100px;
+}
+
+#info{
+    color:black;
+    font-size: 80px;
+    text-align: center;
+    width: 1335px;
+    height: 1065px;
+    margin:auto;
+    position: fixed;
+    top: 8px;
+    left: 400px;
+    text-align: center;
+
+}
+
+#infol{
+    width: 1335px;
+    height: 1065px;
+    margin:auto;
+    position: fixed;
+    left: 400px;
+    background-color: white;
+    opacity: 0.5;
+}
+
+#video2d{
+    font-size: 100px;
+    width: auto;
+    height: auto;
+    color: gray;
+    position: fixed;
+    top: 00px;
+    left: 800px;
+}
+
+#inici_centre{
+    width: 1335px;
+    height: auto;
+    background-color: dgray;
+    position: fixed;
+    left: 400px;
+    top: 8px;
+    
+}
+
+#inici_centrec{
+    width: 1335px;
+    height: 1065px;
+    background-image: url(Hornet_d_2.png);
+    background-repeat: no-repeat;
+    position: fixed;
+    left: 400px;
+    top: 10px;
+    
+}
+
+#inici_esquerre{
+    width: 330px;
+    height: 1065px;
+    background-color: darkgray;
+    position: fixed;
+    top: 10px;
+    left: 10px;    
+}
+
+#inici_dreta{
+    width: 381px;
+    height: 1065px;
+    background-color: darkgray;
+    position: fixed;
+    right: 10px;
+    top: 10px;
+
+    
+}
+
+#frame{
+    width: 1024px;
+    height: 768px;
+    position: fixed;
+    top: 50px;
+    left: 450px;
+}
+
+#titol{
+    font-size: 100px;
+    color: gray;
+    position: fixed;
+    top:320px;
+    left: 950px;
+    width: auto;
+    height: auto;
+    
+}
+
+#stopmotion{
+    
+    font-size: 100px;
+    width: auto;
+    height: auto;
+    color: gray;
+    position: fixed;
+    top: 50px;
+    left: 780px;
+}
+#framep {
+    width: 1400px;
+    height: 1065px;
+    position: fixed;
+    left: 298px;
+    top: 5px;
+}
+
+#pong {
+    background-image: url(Captura_pong.PNG);
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 300px;
+    position: fixed;
+    top: 600px;
+    left: 900px;
+}
+
+#pongf {
+    opacity: 0;
+    width: 300px;
+    height: 163px;
+    position: fixed;
+    top: 600px;
+    left: 900px;
+    font-size: 0px;
+    text-decoration: none;
+}
+
+#pongf:hover{
+   
+    background-color: white;
+    opacity: 0.5;
+    font-size: 40px;
+    color: black;
+    text-align: center;
+}
+#pc {
+    background-image: url(Captura_pc.PNG);
+    height: 300px;
+    width: 300px;
+    position: fixed;
+    top: 500px;
+    left: 35px;
+}
+
+#pcd {
+    background-image:url(Captura_pc_d.png);
+    height: 300px;
+    width: 300px;
+    position: fixed;
+    top: 500px;
+    right: 70px;
+
+}
+
+#htmle {
+    background-image:url(HTML5-CSS3-JS.png);
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 300px;
+    position: fixed;
+    top: 150px;
+    left: 1810px;
+
+}
+
+#ralla {
+    width: 10px;
+    height: 1065px;
+    position: fixed;
+    right: 380px;
+    background: #202020;
+}
+
+#htmlc {
+
+    background-image:url(who-am-i.png);
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 300px;
+    position: fixed;
+    top: 150px;
+    left: 1780px;
+    opacity: 0.6;
+
+}
+
+#html3 {
+    background-image:url(Logo_of_Maya.png);
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 200px;
+    position: fixed;
+    top: 150px;
+    left: 1850px;
+}
+
+#html2 {
+    background-image:url(Adobe_Photoshop_CS6_icon.svg.png);
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 200px;
+    position: fixed;
+    top: 150px;
+    left: 1850px;
+}
+
+
+
+#html {
+    background-image:url(logo_index.png);
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 300px;
+    position: fixed;
+    top: 250px;
+    left: 1810px;
+
+}
+
+#htmla {
+    background-image:url(../Fotos/logos.png);
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 300px;
+    position: fixed;
+    top: 100px;
+    left: 1790px;
+}
+
+#altres {
+    font-size: 100px;
+    color: gray;
+    position: fixed;
+    top: -35px;
+    left: 850px;
+    width: auto;
+    height: auto;
+}
+
+#textures {
+    background-image: url(../Fotos/textures.png);
+    background-repeat: no-repeat;
+    position: fixed;
+    top: 300px;
+    left: 600px;
+    width: 1500px;
+    height: 583px;
+}
+
+
+
+#stop_motion {
+    position: fixed;
+    top: 685px;
+    left: 800px;
+}
+
+#rotoscop {
+    position: fixed;
+    top: 250px;
+    left: 1250px;
+}
+
+#imatges {
+    background-image: url(imatges.png);
+    background-repeat: no-repeat;
+    position: fixed;
+    top: 120px;
+    left: 450px;
+    width: 700px;
+    height: 558px;
+}
+
+#nom2a {
+    border-radius: 5px;
+    display: inline;
+    position: fixed;
+    right: 500px;
+    top: 1000px;
+    font-size: 30px; 
+    width: auto;
+    height: auto;
+    text-align: center;
+    transition-duration: 1s;
+    text-decoration: none;   
+    color: gray;
+}
+
+#controls {
+    position: fixed;
+    top: 300px;
+    left: 5px;
+    width: auto;
+    height: auto;
+    color: gray;
+    font-size: 15px;
+}
+
+#peu {
+    width: 250px;
+    height: 50px;
+    position: fixed;
+    top: 1005px;
+    left: 1400px;
+}
+
+#bean {
+    background-image: url(Fotos/bean.png);
+    width: 300px;
+    height: 175px;
+    position: fixed;
+    top: 800px;
+    left: 450px;
+}
+
+#habitacions {
+    background-image: url(habitacions.png);
+    width: 300px;
+    height: 300px;
+    position: fixed;
+    top: 655px;
+    left: 1350px;
+}
+
+#bidons {
+    background-image: url(bidons_textures.png);
+    width: 300px;
+    height: 169px;
+    position: fixed;
+    top: 50px;
+    left: 1350px;
+}
