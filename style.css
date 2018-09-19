@@ -303,7 +303,7 @@ html {
     position: fixed;
     left: 840px;
     top: 550px;
-    font-size: 24px; 
+    font-size: 22px; 
     width: 170px;
     height: 35px;
     text-align: center;
@@ -683,4 +683,90 @@ html {
     position: fixed;
     top: 620px;
     left: 230px;
+}
+
+#bean_gran{
+    background-image: url(bean_gran.png);
+    height: 233px;
+    width: 400px;
+    position: fixed;
+    top: 500px;
+    left: 320px;
+}
+
+#bean_original{
+   background-image: url(bean_original.png);
+    height: 200px;
+    width: 400px;
+    position: fixed;
+    top: 200px;
+    left: 320px; 
+}
+
+#html7 {
+    background-image:url(illustrator.png);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    position: fixed;
+    top: 150px;
+    left: 875px;
+}
+
+#bidons_grans {
+    background-image: url(bidons_grans.png);
+    height: 200px;
+    width: 400px;
+    position: fixed;
+    top: 150px;
+    left: 320px;
+}
+
+#iluminaciot {
+    font-size: 80px;
+    color: gray;
+    position: fixed;
+    top: 20px;
+    left: 320px;
+    width: auto;
+    height: auto;
+}
+
+#habitacions_grans {
+    background-image: url(habitacions_grans.png);
+    height: 338px;
+    width: 300px;
+    position: fixed;
+    top: 400px;
+    left: 375px;
+}
+
+#html8 {
+    background-image:url(logo_blender.png);
+    background-repeat: no-repeat;
+    height: 80px;
+    width: 100px;
+    position: fixed;
+    top: 150px;
+    left: 875px;
+}
+
+#photoshop {
+    font-size: 80px;
+    color: gray;
+    position: fixed;
+    top: 50px;
+    left: 320px;
+    width: auto;
+    height: auto;
+}
+
+#imatges_grans {
+    background-image: url(imatges_grans.png);
+    background-repeat: no-repeat;
+    position: fixed;
+    top: 220px;
+    left: 216px;
+    width: 600px;
+    height: 424px;
 }
